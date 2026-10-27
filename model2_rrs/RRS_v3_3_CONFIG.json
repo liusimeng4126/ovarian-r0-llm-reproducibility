@@ -1,0 +1,32 @@
+{
+  "version": "RRS-v3.3-BOTTLENECK",
+  "principle": "R0 resectability is modeled as a dominant technical bottleneck with clinically plausible interactions, not as a simple sum of all residual disease sites.",
+  "uses_only_v6_1": true,
+  "uses_new_llm": false,
+  "critical_domains": ["mesentery", "bowel", "upper_abdomen", "diaphragm", "nodes_distant"],
+  "keywords": {
+    "mesenteric_root": ["肠系膜根", "系膜根部", "肠系膜上动脉", "sma root", "sma"],
+    "diffuse_infiltrating": ["弥漫", "广泛", "融合", "大片", "饼状"],
+    "deep_invasion": ["侵犯", "侵及", "浸润"],
+    "mere_contact": ["密接", "分界不清", "界限不清", "受压", "邻近"],
+    "small_bowel_organs": ["小肠", "回肠", "空肠", "十二指肠"],
+    "stomach": ["胃", "胃壁", "胃大弯", "胃小弯"],
+    "colon_rectum": ["直肠", "乙状结肠", "结肠", "直乙"],
+    "porta": ["肝门", "肝十二指肠韧带", "胃肝韧带", "肝胃韧带"],
+    "splenic_hilum": ["脾门"],
+    "hepatorenal_recess": ["肝肾隐窝", "肝肾间隙"],
+    "lesser_sac": ["网膜囊", "小网膜囊"],
+    "gallbladder_fossa": ["胆囊窝", "肝裂", "叶间裂", "段间裂"],
+    "major_vessel": ["腹腔干", "肝动脉", "胃左动脉", "门静脉", "肠系膜上动脉", "血管包绕", "包绕血管", "血管受累"],
+    "diaphragm_deep": ["膈肌侵犯", "侵及膈肌", "膈肌内", "膈肌受累"],
+    "bulky_node": ["淋巴结融合", "融合淋巴结", "淋巴结团块", "团块状淋巴结", "融合成团"],
+    "obstruction": ["肠梗阻", "肠腔明显变窄", "肠腔狭窄", "肠管扩张", "胃出口梗阻"]
+  },
+  "clinical_notes": [
+    "Generic liver capsule, paracolic, pelvic peritoneal, omental, or focal diaphragmatic surface disease should not by itself drive non-R0 classification.",
+    "Small stable nodes <=10 mm without suspicious wording should contribute zero risk.",
+    "Bowel/stomach raw status is down-weighted; post relation grade and exact evidence wording are preferred.",
+    "Explicit change is a weak field for many critical sites, so objective PRE/POST size ratios are used when available.",
+    "The score is dominated by the highest technical difficulty domain, then modified by a second difficult domain, multi-domain interactions, and objective response."
+  ]
+}

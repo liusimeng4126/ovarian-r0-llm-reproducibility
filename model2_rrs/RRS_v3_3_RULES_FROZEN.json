@@ -1,0 +1,20 @@
+{
+  "version": "RRS-v3.3-BOTTLENECK",
+  "formula_family": "dominant-bottleneck + second-domain + prespecified interaction + objective response",
+  "selected_params": {
+    "dominant_weight": 2.0,
+    "second_weight": 1.5,
+    "multi_bonus": 1.5,
+    "hard_bonus": 1.0,
+    "unfavorable_bonus": 1.0,
+    "favorable_credit": 0.5,
+    "global_bonus": 1.0
+  },
+  "frozen_threshold": 2.5,
+  "selection_cv_auc_mean": 0.8268627450980393,
+  "fixed_formula_5fold_oof_auc": 0.8331243972999036,
+  "fixed_formula_5fold_oof_auprc": 0.8649913459465939,
+  "config_sha256": "5dc1aaf8664ee74d2da10408a68b3401b60a2032be77ad702ae4e3a6fae4498b",
+  "locked_test_evaluated": false,
+  "shadow_evaluated": false
+}

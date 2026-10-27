@@ -1,0 +1,41 @@
+[
+  {
+    "seed": 420042,
+    "source_member": "MODEL3_DEV392_FINAL_RUN/FROZEN_MODEL3_AFTER_DEV392/seed_0/model.pt",
+    "source_sha256": "309d03e18b907109abdd97944e262b7bcf1f5cd4bdd3091d33e7689a902f9a2c",
+    "release_path": "model3\\checkpoints_release\\model3_seed420042_release.pt",
+    "release_sha256": "c95541ee1c455bf53e3b537d1cb3619d0805b112fc47b86792edec7db6fd8422",
+    "removed_keys": [
+      "fit_patient_ids",
+      "development392_features_sha256",
+      "locked_internal_test_used",
+      "external_used"
+    ]
+  },
+  {
+    "seed": 420043,
+    "source_member": "MODEL3_DEV392_FINAL_RUN/FROZEN_MODEL3_AFTER_DEV392/seed_1/model.pt",
+    "source_sha256": "13d78609a6c6d6f7f2288bf758a4d18e363f35c8bea1e45fe303bba805ec563e",
+    "release_path": "model3\\checkpoints_release\\model3_seed420043_release.pt",
+    "release_sha256": "2d23e6c9d555a908d7f3523d13c25cc216c49e32d290a20bfa878d90c7af3cbd",
+    "removed_keys": [
+      "fit_patient_ids",
+      "development392_features_sha256",
+      "locked_internal_test_used",
+      "external_used"
+    ]
+  },
+  {
+    "seed": 420044,
+    "source_member": "MODEL3_DEV392_FINAL_RUN/FROZEN_MODEL3_AFTER_DEV392/seed_2/model.pt",
+    "source_sha256": "b5f354c73e0a2dbdf263901ade0e4536d216f177d622fd585555e7b35e7c5c93",
+    "release_path": "model3\\checkpoints_release\\model3_seed420044_release.pt",
+    "release_sha256": "1ea99b4e258ab6d5dd2e951686c796ccf4e32457e6a22eb06a4107744cbe6071",
+    "removed_keys": [
+      "fit_patient_ids",
+      "development392_features_sha256",
+      "locked_internal_test_used",
+      "external_used"
+    ]
+  }
+]

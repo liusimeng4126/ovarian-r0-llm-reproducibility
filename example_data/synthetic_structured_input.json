@@ -1,0 +1,76 @@
+{
+  "synthetic": true,
+  "patient_id": "SYNTHETIC_001",
+  "sites": [
+    {
+      "site": "site_01",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_02",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_03",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_04",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_05",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_06",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_07",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_08",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_09",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_10",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_11",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_12",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_13",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    },
+    {
+      "site": "site_14",
+      "pre_status": "not_mentioned",
+      "post_status": "not_mentioned"
+    }
+  ]
+}

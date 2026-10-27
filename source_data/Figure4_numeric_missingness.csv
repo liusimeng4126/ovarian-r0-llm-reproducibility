@@ -1,0 +1,5 @@
+﻿feature_key,feature_label,Development392_pct,Internal100_pct,External80_pct
+peritoneal_size_pre,Peritoneal lesion size — PRE,53.06122448979592,56.99999999999999,78.75
+peritoneal_size_post,Peritoneal lesion size — POST,65.05102040816327,64.0,85.0
+burden_pre,Site-level burden — PRE,69.533527696793,68.57142857142857,83.75
+burden_post,Site-level burden — POST,74.65379008746356,73.42857142857143,87.67857142857143

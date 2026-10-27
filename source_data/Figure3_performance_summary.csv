@@ -1,0 +1,10 @@
+﻿cohort,model,auroc,ci_low,ci_high,auprc,brier,note
+Development392,Model1 Direct LLM,0.780247,0.734309,0.825887,0.725635,0.207195,development pooled; fixed threshold 0.45
+Development392,Model2 Structured deterministic score,0.856052,,,,,final locked aggregate
+Development392,Model3 Anatomy-aware deep learning,0.906985,,,,,Full model OOF
+Internal100,Model1 Direct LLM,0.7841185,0.663623,0.890625,0.67591,0.15018,patient-level recomputation
+Internal100,Model2 Structured deterministic score,0.868383,,,,,final locked aggregate; final patient-level file absent from current upload set
+Internal100,Model3 Anatomy-aware deep learning,0.9456047,0.894912,0.983888,0.875516,0.082985,patient-level recomputation; frozen threshold 0.345328
+External80,Model1 Direct LLM,0.7305764,0.615695,0.837423,0.758704,0.221063,patient-level recomputation
+External80,Model2 Structured deterministic score,0.604637,0.479161,0.724388,,,final locked aggregate; no external retuning
+External80,Model3 Anatomy-aware deep learning,0.7048872,0.583979,0.81252,0.715168,0.294721,patient-level recomputation; frozen threshold 0.345328

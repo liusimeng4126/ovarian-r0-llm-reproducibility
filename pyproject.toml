@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ovarian-r0-model3-core"
+version = "1.0.1"
+description = "Archived Model 3 core modules for the manuscript release"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+packages = ["model3_core"]
+package-dir = {"" = "model3/training"}

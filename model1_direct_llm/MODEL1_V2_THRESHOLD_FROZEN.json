@@ -1,0 +1,8 @@
+{
+  "model": "Model1-v2 clinically instructed direct LLM",
+  "threshold_p_r0": 0.45,
+  "selection": "Youden J on Engineering292 only",
+  "n": 292,
+  "prompt_sha256": "e76f6903a6f8dd59fd560524735b7aded17f906d7e6cb25ba2f0a51a0f8be85e",
+  "prediction_sha256": "5efb53649536590277772661663e2c701a4f6725afd18be34b96fa61dfbb526a"
+}

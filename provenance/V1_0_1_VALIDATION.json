@@ -1,0 +1,81 @@
+{
+  "python": {
+    "syntax": [],
+    "imports": [
+      [
+        "structured_extraction/extract_v6_1_FINAL.py",
+        "PASS"
+      ],
+      [
+        "model1_direct_llm/model1_v2_prompt.py",
+        "PASS"
+      ],
+      [
+        "model2_rrs/rrs_v3_3_deep_logic_engine.py",
+        "PASS"
+      ],
+      [
+        "evaluation/reproduce_final_statistics.py",
+        "PASS"
+      ],
+      [
+        "ablation_interpretability/aggregate_site_importance.py",
+        "PASS"
+      ],
+      [
+        "model3/training/run_dev392.py",
+        "PASS"
+      ],
+      [
+        "model3/inference/ENGINEER_RUN_PRIMARY_BLIND.py",
+        "PASS"
+      ]
+    ],
+    "tests": [
+      [
+        "test_threshold_boundaries",
+        "PASS"
+      ],
+      [
+        "test_average_precision_ties_and_calibration_stability",
+        "PASS"
+      ],
+      [
+        "test_bootstrap_paired_and_skips",
+        "PASS"
+      ],
+      [
+        "test_signed_cancellation_meanabs_and_rho",
+        "PASS"
+      ],
+      [
+        "test_synthetic_example_is_marked",
+        "PASS"
+      ]
+    ]
+  },
+  "checkpoints": [
+    {
+      "seed": 420042,
+      "sha256": "c95541ee1c455bf53e3b537d1cb3619d0805b112fc47b86792edec7db6fd8422",
+      "tensor_identity_to_v1_0_0": "PASS",
+      "metadata_scan": "PASS"
+    },
+    {
+      "seed": 420043,
+      "sha256": "2d23e6c9d555a908d7f3523d13c25cc216c49e32d290a20bfa878d90c7af3cbd",
+      "tensor_identity_to_v1_0_0": "PASS",
+      "metadata_scan": "PASS"
+    },
+    {
+      "seed": 420044,
+      "sha256": "1ea99b4e258ab6d5dd2e951686c796ccf4e32457e6a22eb06a4107744cbe6071",
+      "tensor_identity_to_v1_0_0": "PASS",
+      "metadata_scan": "PASS"
+    }
+  ],
+  "source_v1_0_0_unchanged": true,
+  "privacy_scan": "PASS: local private paths, prohibited file formats and patient-level CSV headers absent; synthetic schema IDs permitted",
+  "credential_scan": "PASS: no high-confidence credential patterns detected",
+  "scope": "Packaging validation only. Historical training/inference require private inputs and are not executed end-to-end."
+}

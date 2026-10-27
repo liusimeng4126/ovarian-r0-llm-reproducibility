@@ -1,0 +1,13 @@
+{
+  "threshold_full_precision": 0.3453282415866852,
+  "threshold_manuscript": 0.345328,
+  "n": 392,
+  "oof_status": "Development392 Full-model five-fold OOF",
+  "criterion": "maximize sensitivity + specificity - 1",
+  "tie_breaking": [
+    "threshold closest to 0.5",
+    "if still tied, larger threshold"
+  ],
+  "source_oof_sha256": "not distributed; recorded in original audit provenance",
+  "selector": "archived OOF threshold evaluation"
+}

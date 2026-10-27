@@ -1,0 +1,19 @@
+{
+  "reason": "The original release split one Python package across architecture and training directories. The two missing package modules were copied byte-for-byte from the already released archive-verified sources.",
+  "files": [
+    {
+      "release_path": "model3/training/model3_core/data.py",
+      "source_path": "model3/architecture/model3_core/data.py",
+      "archive_member": "MODEL3_DEVELOPMENT392_FINAL_PACKAGE/model3_core/data.py",
+      "sha256": "bee72dd77d88dd30d377a4ece5cb7b9b7e7e44e23fe264829f6e46b870717f56",
+      "byte_identical": true
+    },
+    {
+      "release_path": "model3/training/model3_core/model.py",
+      "source_path": "model3/architecture/model3_core/model.py",
+      "archive_member": "MODEL3_DEVELOPMENT392_FINAL_PACKAGE/model3_core/model.py",
+      "sha256": "820cdfe7e4043aba7a8ff2b5156373aab0b4f539e3f6a589db107daef2564922",
+      "byte_identical": true
+    }
+  ]
+}

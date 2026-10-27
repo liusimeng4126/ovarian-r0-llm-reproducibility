@@ -1,0 +1,1 @@
+Preprocessing is implemented in `model3/architecture/model3_core/data.py` and the reviewed training package. It is fold-specific and includes missingness indicators, categorical features, longitudinal changes, and 14-site ordering.

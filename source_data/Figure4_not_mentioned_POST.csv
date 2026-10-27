@@ -1,0 +1,15 @@
+﻿site_key,site_label,Development392_pct,Internal100_pct,External80_pct
+primary_pelvic_mass,Primary pelvic/adnexal mass,0.0,0.0,0.0
+pelvic_peritoneum,Pelvic peritoneum,6.122448979591829,9.0,56.25
+greater_omentum,Greater omentum,27.04081632653061,28.999999999999996,82.5
+lesser_omentum_lesser_sac,Lesser omentum / lesser sac,74.74489795918367,69.0,100.0
+small_bowel_mesenteric,Small bowel / mesentery,79.59183673469387,79.0,90.0
+colonic_mesenteric,Colon / mesocolon,93.36734693877553,90.0,96.25
+paracolic_wall_peritoneum,Paracolic / parietal peritoneum,23.72448979591837,20.0,80.0
+diaphragmatic_peritoneum,Diaphragmatic peritoneum,79.33673469387756,80.0,93.75
+upper_abdominal_peritoneum,Upper abdominal peritoneum,38.52040816326531,28.000000000000004,41.25
+porta_hepatis,Porta hepatis,98.46938775510205,99.0,72.5
+bowel_stomach_involvement,Bowel / stomach involvement,28.57142857142857,35.0,68.75
+pelvic_retroperitoneal_nodes,Pelvic / retroperitoneal nodes,3.0612244897959098,0.0,2.5
+upper_abdominal_cardiophrenic_nodes,Upper abdominal / cardiophrenic nodes,70.40816326530613,70.0,51.24999999999999
+distant_metastasis,Distant metastasis,76.0204081632653,73.0,71.25
